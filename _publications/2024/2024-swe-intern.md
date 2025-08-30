@@ -14,5 +14,6 @@ cover:          /assets/images/covers/LexisNexis.jpeg
 authors:
   - Jefferson Lin, David Zapata 
 links:
+  Program: https://labs.codeday.org/
   Code: https://github.com/DavidZ033/ECL_SLOCCount
 ---
