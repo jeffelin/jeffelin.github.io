@@ -9,7 +9,7 @@ pub_last:       ''
 pub_date:       "2025-Present"
 semantic_scholar_id:  # use this to retrieve citation count
 abstract: >-
-  Contributed to literature review for an open-source, low-cost microscope diagnostic system to enable rapid disease detection in rural areas.
+  Assisted literature review for an open-source, low-cost microscope diagnostic system to enable rapid disease detection in rural areas.
 cover:          /assets/images/covers/PubInv.png
 authors:
   - Jefferson Lin
