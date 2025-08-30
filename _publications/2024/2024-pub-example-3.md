@@ -15,6 +15,6 @@ authors:
   - Jefferson Lin
   - International Team
 links:
-  Code: https://github.com/luost26/academic-homepage
+  Code: https://github.com/jeffelin/AI4Access
   Feature: https://www.nyas.org/ideas-insights/blog/using-artificial-intelligence-to-redefine-accessible-classrooms/
 ---
