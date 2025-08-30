@@ -1,6 +1,6 @@
 primary_name: "Jefferson Lin"
 secondary_name: ""
-navbar_name: ""
+navbar_name: "Jefferson Lin"
 
 # positions:
 # - # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -29,7 +29,7 @@ short_bio: >-
     In the past, I researched embedded systems with ML at Carnegie Mellon University and assisted on data annotations for LLMs in Dr. Dena J. Clink's lab at Cornell. Independently, I built AI voice agents for automating manual data workflows, neural networks from scratch, and MLOPs automation workflows.
   </p>
   <p>
-    I've also been accepted to YC's F25 batch, which I turned down for MIT, and helped found Simply Code, a nonprofit dedicated to making technology more fun for 100+ students. My contacts are below - I'd love to collaborate!
+    I've also been accepted to YC's F25 batch by David Lieb, which I turned down for MIT, and helped found Simply Code, a nonprofit dedicated to making technology more fun for 100+ students. My contacts are below - I'd love to collaborate!
   </p>
 
 # selected_publications:

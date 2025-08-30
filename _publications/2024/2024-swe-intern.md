@@ -12,7 +12,7 @@ abstract: >-
   Contributed to SLOCCount integration in LexisNexis Risk Solution's HPCC Systems using the ECL programming language for big data applications.
 cover:          /assets/images/covers/LexisNexis.jpeg
 authors:
-  - Jefferson Lin, David Zapata
+  - Jefferson Lin
 links:
   Code: https://github.com/DavidZ033/ECL_SLOCCount
 ---
