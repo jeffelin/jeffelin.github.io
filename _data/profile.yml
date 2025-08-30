@@ -23,14 +23,18 @@ portfolio: "jeffelin.com"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am pursuing a B.S. in Artificial Intelligence and Physics at MIT, spanning reinforcement learning, biotechnology, and robotics. Recently, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids.
+    I am currently pursuing a B.S. in Artificial Intelligence and Physics at MIT, spanning reinforcement learning, biotechnology, and robotics. Recently, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids.
   </p>
   <p>
-    In the past, I researched embedded systems with ML at Carnegie Mellon University and assisted on data annotations for LLMs in Dr. Dena J. Clink's lab at Cornell. Independently, I built AI voice agents for automating manual data workflows, neural networks from scratch, and MLOPs automation workflows.
+    In the past, I researched embedded systems with ML at Carnegie Mellon University and assisted on data annotations for LLMs in Dr. Dena J. Clink's lab at Cornell. Independently, I built AI voice agents for automating manual data workflows, neural networks from scratch, full stack applications, and MLOPs automation workflows.
   </p>
   <p>
-    I'm also apart of Next Chapter and have been accepted to YC's F25 batch by David Lieb for an agentic ML project, which I turned down for MIT. I help founded Simply Code, a nonprofit dedicated to making technology more fun for 100+ students. My contacts are below; I'd love to learn more and potentially collaborate!
+    I've also been accepted to Next Chapter, Roote, and YC's F25 batch by David Lieb for an agentic ML project, which I turned down for MIT. Being apart of these business and startup communities have allowed me to reason more from a consumer lens, and this has significantly increase the effectiveness of my technical projects. 
   </p>
+  <p>
+    Growing up from a low income background, I developed a strong work ethic, sense of responsibility, and passion at an early age to create good tech. I've help founded Simply Code, a nonprofit dedicated to making technology more fun for 100+ students, and invited to do open source research with Public Invention. My contacts are below; I'd love to learn more and potentially collaborate!
+  </p>
+
 
 # selected_publications:
 # - title: "Hide & Seek - Multi-Modal Approach to AI Facial Detection"
