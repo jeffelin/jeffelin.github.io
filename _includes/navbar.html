@@ -6,7 +6,7 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav mr-auto">
                 {% for item in site.data.navigation.pages %}
                 <li class="nav-item {% if item.name == page.navbar_title %}active{% endif %}">
                     <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>

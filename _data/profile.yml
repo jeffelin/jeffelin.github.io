@@ -1,61 +1,83 @@
-primary_name: "Your Name"
+primary_name: "Jefferson Lin"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: ""
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Technical AI PM with 2 years of Founder and Research Experience
+# - name: MIT AI and Decision-Making
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "jeffy@mit.edu"
+# cv_link: "https://jeffelin.github.io/assets/cv.pdf"
+# gscholar: ""  # Add your Google Scholar ID here
+github: "jeffelin"
+# twitter: ""  # Add your Twitter handle here (do not include the '@' symbol)
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: "jefflin07"
+portfolio: "jeffelin.com"
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am pursuing a B.S. in Artificial Intelligence and Physics at MIT, spanning reinforcement learning, biotechnology, and robotics. Recently, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    In the past, I researched embedded systems with ML at Carnegie Mellon University and assisted on data annotations for LLMs in Dr. Dena J. Clink's lab at Cornell. Independently, I built AI voice agents for automating manual data workflows, neural networks from scratch, and MLOPs automation workflows.
+  </p>
+  <p>
+    I've also been accepted to YC's F25 batch, which I turned down for MIT, and helped found Simply Code, a nonprofit dedicated to making technology more fun for 100+ students. My contacts are below - I'd love to collaborate!
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# selected_publications:
+# - title: "Hide & Seek - Multi-Modal Approach to AI Facial Detection"
+#   authors: "Jeff Lin, Team Research Lab at Carnegie Mellon University"
+#   venue: "Pennsylvania Governor's School of the Sciences Symposium"
+#   year: "2024"
+#   abstract: "Led mmWave sensor team integrating hardware sensors with ML models to improve AI facial detection accuracy, achieving 99.2% success rate."
+# - title: "AI4Access - AI Powered Education Personalization App"
+#   authors: "Jeff Lin, International Team"
+#   venue: "Cognitive Classrooms Pitch (NEOM & NY Junior Sciences Academy)"
+#   year: "2024"
+#   abstract: "1st place winner - Led 6-person team developing AI app to reduce teacher shortages in under-resourced communities using OpenAI API and generative AI."
 
-education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+portrait_url: /assets/images/photos/jefpfp.png
+# portrait_caption: >-
+#   Jeff Lin - B.S. Student at MIT
+
+# education:
+# - name: Massachusetts Institute of Technology
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: >- 
+#     AI and Decision-Making <br/>
+#     Bachelor of Science
+#   date: 2029
+# - name: Northeast High School
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Valedictorian of 836 Students, AP Capstone, IB Certificate
+#   date: 2025
 
 # experience:
-# - name: Peking University
+# - name: Simply Code
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: Co-Chair, Board
+#   date: Mar. 2025 - Present
+# - name: Simply Code
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: Chief Executive Officer
+#   date: Aug. 2024 - Mar. 2025
+# - name: Engineering Beavers
 #   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+#   position: Founder, Chief Advisor
+#   date: Sep. 2024 - Present
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: 1st Place - Cognitive Classrooms Pitch (NEOM & NY Junior Sciences Academy)
+#   date: 2024
+# - name: Valedictorian of 836 Students - Northeast High School
+#   date: 2025
+# - name: Pennsylvania Governor's School of the Sciences Symposium Presenter
+#   date: 2024
