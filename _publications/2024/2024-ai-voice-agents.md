@@ -12,7 +12,7 @@ abstract: >-
   Researched CNN with geographic priors and QNNs for Gibbon call classification, annotating 1000+ bioacoustic spectrograms under Dr. Dena J. Clink's Lab.
 cover:          /assets/images/covers/Cornell.png
 authors:
-  - Jefferson Lin
+  - Jefferson Lin, Yang Center SE Asia Research 
 links:
   Lab: https://www.birds.cornell.edu/ccb/dena-j-clink-ph-d/
 ---
