@@ -9,7 +9,7 @@ pub_last:       ''
 pub_date:       "2025-Present"
 semantic_scholar_id:  # use this to retrieve citation count
 abstract: >-
-  Assisted literature review for a low-cost microscope diagnostic system to enable rapid disease detection in rural areas.
+  Developing a low-cost microscope diagnostic system to enable rapid disease detection in rural areas.
 cover:          /assets/images/covers/PubInv.png
 authors:
   - Jefferson Lin, Librecorder Group
