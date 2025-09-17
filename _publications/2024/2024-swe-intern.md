@@ -9,7 +9,8 @@ pub_last:       ''
 pub_date:       "2025"
 semantic_scholar_id:  # use this to retrieve citation count
 abstract: >-
-  Contributed to SLOCCount integration in LexisNexis Risk Solution's HPCC Systems using the ECL programming language for big data applications.
+  Reduced codebase inefficiencies with SLOCCount integration in HPCC Systems using the ECL programming language.
+  
 cover:          /assets/images/covers/LexisNexis.jpeg
 authors:
   - Jefferson Lin, David Zapata 
