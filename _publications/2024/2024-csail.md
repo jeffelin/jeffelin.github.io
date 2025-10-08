@@ -5,7 +5,7 @@ selected:       true
 pub:            "MIT Computer Science & Artificial Intelligence Laboratory"
 pub_date:       "2025 - Present"
 abstract: >-
-  Improving model workflow alignment using agentic programming by example for digital tasks. 
+  Improving model workflow alignment with digital tasks using agentic programming by demonstration. 
 cover:          /assets/images/covers/CSAIL_logo.png
 authors:
   - Jefferson Lin, Henry Lieberman, et. al.  
