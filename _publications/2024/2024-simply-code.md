@@ -1,6 +1,6 @@
 ---
 title:          "Machine Learning Researcher"
-date:           2025-03-15 00:01:00 +0800
+date:           2025-03-16 00:01:00 +0800
 selected:       true
 pub:            "Public Invention"
 # pub_pre:        "Submitted to "
