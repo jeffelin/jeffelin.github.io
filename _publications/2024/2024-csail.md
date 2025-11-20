@@ -5,7 +5,7 @@ selected:       true
 pub:            "MIT Computer Science & Artificial Intelligence Laboratory"
 pub_date:       "2025 - Present"
 abstract: >-
-  Researching new agentic hierarchical imitation learning and goal decomposition techniques
+  Researching new agentic hierarchical imitation learning and goal decomposition techniques.
 cover:          /assets/images/covers/CSAIL_logo.png
 authors:
   - Jefferson Lin
