@@ -13,3 +13,33 @@ navbar_title: Home
         title='<i class="fas fa-star"></i> Relevant Experiences'
     %}
 {% endif %}
+
+{% comment %}
+{% assign things_i_did = site.publications | sort: "date" | reverse | where: "things_i_did", true %}
+{% if things_i_did.size > 0 %}
+<div class="my-3 p-0 bg-white shadow-sm rounded-xl">
+    <h6 class="border-bottom border-gray p-3 mb-0">
+        Some Things I Did
+    </h6>
+    <div class="p-3">
+        <ul class="mb-0 pl-3">
+            {% for item in things_i_did %}
+            <li class="mb-1">
+                {% assign first_link = item.links | first %}
+                {% if first_link %}
+                    {% if first_link[1].url %}
+                        <a href="{{ first_link[1]['url'] }}" target="{{ first_link[1]['target'] | default: '_blank' }}">{{ item.title }}</a>
+                    {% else %}
+                        <a href="{{ first_link[1] }}" target="_blank">{{ item.title }}</a>
+                    {% endif %}
+                {% else %}
+                    {{ item.title }}
+                {% endif %}
+                {% if item.abstract %}, {{ item.abstract }}{% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endif %}
+{% endcomment %}

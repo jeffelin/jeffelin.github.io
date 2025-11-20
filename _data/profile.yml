@@ -23,21 +23,69 @@ linkedin: "jefflin07"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am pursuing a B.S. in Artificial Intelligence at MIT, spanning reinforcement learning, robotics, and nanotechnology. Currently, I am building agentic systems through CSAIL and ML models for production with Public Invention. In the past, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids; I additionally worked around with startups for 1-2 years.
-
+    I am pursuing a B.S. in Artificial Intelligence at MIT, focusing on reinforcement learning, robotics, and agentic systems. I currently work at CSAIL and Harvard’s AI & Robotics Lab on hierarchical, goal-driven imitation learning, and safe agent deployment in both digital and physical environments. To continue my studies, I turned down my acceptance to Y Combinator’s Fall 2025 batch by David Lieb for an agentic ML project I worked on in high school. 
   </p>
 
   <p>
-  In high school, I annotated data in Dr. Dena J. Clink's lab at Cornell and researched embedded systems at Carnegie Mellon University. I have independently worked on AI voice agents for automating manual data entries, neural network applications, MLOPs automation workflows, and numerous full stack applications, winning first at NY's Junior Academy of the Sciences with NEOM. 
-  </p>
-  <p>
-     I've also been accepted to Next Chapter, Roote, and Y Combinator's Fall 2025 batch by David Lieb for an agentic ML project, which I turned down to attend MIT. Being apart of these business and startup communities has trained me to reason more from a consumer lens, and this has significantly increase the effectiveness of my technical projects. 
-
-  </p>
-  <p>
-    Seeing the immense power technology with passion can bring, I co-founded Simply Code, a 501(c)(3) making technology more fun for 100+ students. Growing up from a low income background, I developed a strong work ethic, sense of responsibility, and humanity at an early age to create good tech. My contacts are below; I'd love to learn more about your story and potentially collaborate!
+    Before MIT, I contributed to CNNs at Dr. Dena J. Clink’s lab at Cornell and helped improve OpenFace’s accuracy at Carnegie Mellon. I also developed early AI voice-agent systems, end-to-end neural network applications, full-stack platforms, and MLOps automation pipelines on my own, while gaining industry experience as a SWE intern at LexisNexis Risk Solutions through CodeDay Labs. 
   </p>
 
+  <p>
+  Some other things I did: 
+  </p>
+    <ul>
+    <li>Ranked <a href="/assets/pubgtop5.png" target="_blank">top 5</a> in North America for PUBG mobile in middle school</li>
+    <li>Wrote a <a href="/assets/download/Foundations_And_Applications_of_AI_J.L.pdf" download>300+ page AI textbook</a> using AI in three hours to prove a point</li>
+    <li>Built <a href="https://www.dormsell.com/" target="_blank">Dormsell</a>, MIT's first web marketplace</li>
+    <li>Founded <a href="https://www.wesimplycode.org/" target="_blank">Simply Code</a>, a 501(c)(3) nonprofit bringing hands-on technology education to 100+ students</li>
+  </ul>
+    <p>
+    Motivated by my upbringing in a low-income immigrant family, I’m driven to build AI and robotics systems that are safe and widely accessible. Feel free to reach out, I’d love to learn more about your work and collaborate. 
+  </p>
+
+# short_bio: >-
+#   <p>
+#     I am pursuing a B.S. in Artificial Intelligence at MIT, specializing on reinforcement learning and robotics. Currently, I am a researcher at CSAIL and Harvard's AI & Robotics Lab, investigating new techniques in agentic learning and training robots. I care about making AI and robots safe. 
+
+#   </p>
+
+#   <p>
+#   In high school, I annotated data in Dr. Dena J. Clink's lab at Cornell and worked on improving Open Face at Carnegie Mellon University. I also interne
+  
+#   I won first place at NY's Junior Academy of the Sciences
+  
+#    In the past, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids; I additionally worked around with startups for 1-2 years. I have independently worked on AI voice agents for automating manual data entries, neural network applications, MLOPs automation workflows, and numerous full stack applications, winning first at NY's Junior Academy of the Sciences with NEOM. In the past, I interned as a SWE at LexisNexis Risk Solutions through CodeDay Labs and was invited to be a technical PM at Coded by Kids; I additionally worked around with startups for 1-2 years.
+# I co-founded Simply Code, a 501(c)(3) nonprofit bringing hands-on technology education to 100+ students.
+#   </p>
+#   <p>
+#      I care about making AI and robots safe. Some other things I did 
+     
+#      I've also been accepted to Next Chapter, Roote, and Y Combinator's Fall 2025 batch by David Lieb for an agentic ML project, which I turned down to attend MIT. Being apart of these business and startup communities has trained me to reason more from a consumer lens, and this has significantly increase the effectiveness of my technical projects. 
+
+#   </p>
+#   <p>
+#     Seeing the immense power technology with passion can bring, I co-founded Simply Code, a 501(c)(3) making technology more fun for 100+ students. Growing up from a low income background, I developed a strong work ethic, sense of responsibility, and humanity at an early age to create good tech. My contacts are below; I'd love to learn more about your story and potentially collaborate!
+#   </p>
+
+# things_i_did:
+#   - title: "AI Voice Agents"
+#     description: "for automating manual data entries"
+#     link: ""
+#   - title: "Neural Network Applications"
+#     description: "for healthcare"
+#     link: ""
+#   - title: "MLOps Automation Workflows"
+#     description: ""
+#     link: ""
+#   - title: "Full Stack Applications"
+#     description: "numerous projects"
+#     link: ""
+#   - title: "AI4Access"
+#     description: "AI app for personalized learning, 1st place at NY's Junior Academy of the Sciences with NEOM"
+#     link: "https://github.com/jeffelin/AI4Access"
+#   - title: "mmWave Facial Detection"
+#     description: "improved Open Face's facial detection from 70.3% to 99.2%"
+#     link: "https://github.com/jeffelin/Embedded_Face"
 
 # selected_publications:
 # - title: "Hide & Seek - Multi-Modal Approach to AI Facial Detection"

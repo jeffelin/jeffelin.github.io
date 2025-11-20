@@ -40,6 +40,23 @@
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
+                        {% if site.data.profile.things_i_did %}
+                        <div class="mt-3">
+                            <strong>Some Things I Did:</strong>
+                            <ul class="mb-0 pl-3 mt-2">
+                                {% for item in site.data.profile.things_i_did %}
+                                <li class="mb-1">
+                                    {% if item.link %}
+                                        <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+                                    {% else %}
+                                        {{ item.title }}
+                                    {% endif %}
+                                    {% if item.description %}, {{ item.description }}{% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        {% endif %}
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}

@@ -2,6 +2,7 @@
 title:          "Assistant Researcher"
 date:           2025-02-15 00:01:00 +0800
 selected:       true
+things_i_did:   true
 pub:            "K. Lisa Yang Center"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -6,10 +6,10 @@ pub:            "Public Invention"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ''
-pub_date:       "2025-Present"
+pub_date:       "2025"
 semantic_scholar_id:  # use this to retrieve citation count
 abstract: >-
-  Developing a low-cost, open source microscope diagnostic system to enable rapid disease detection in rural areas.
+  Contributed to a low-cost, open source microscope diagnostic system to enable rapid disease detection in rural areas.
 cover:          /assets/images/covers/PubInv.png
 authors:
   - Jefferson Lin, Librecorder Group

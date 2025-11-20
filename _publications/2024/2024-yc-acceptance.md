@@ -9,7 +9,7 @@ pub:            "Y Combinator Fall Batch"
 pub_date:       "2025"
 semantic_scholar_id:  # use this to retrieve citation count
 abstract: >-
-  Building an agentic ML diagnostic tool after 50+ customer interviews; invited to AI Startup School with portfolio of full stack apps.
+  Designed an agentic MLOps diagnostic tool, being invited to AI Startup School with portfolio of full stack apps.
 cover:          /assets/images/covers/YC_logo.png
 authors:
   - Jefferson Lin

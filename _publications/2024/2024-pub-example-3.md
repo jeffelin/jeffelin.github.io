@@ -2,6 +2,7 @@
 title:          "Product Manager"
 date:           2023-12-15 00:01:00 +0800
 selected:       true
+things_i_did:   true
 pub:            "Cognitive Classrooms Pitch (NEOM & NY Junior Sciences Academy)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

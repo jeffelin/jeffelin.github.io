@@ -2,6 +2,7 @@
 title:          "Student Researcher"
 date:           2024-06-01 00:01:00 +0800
 selected:       true
+things_i_did:   true
 pub:            "Carnegie Mellon University, Governor's School"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

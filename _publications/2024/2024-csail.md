@@ -5,10 +5,14 @@ selected:       true
 pub:            "MIT Computer Science & Artificial Intelligence Laboratory"
 pub_date:       "2025 - Present"
 abstract: >-
-  Improving model workflow alignment with digital tasks using agentic programming by demonstration. 
+  Researching agentic hierarchical imitation learning and goal decomposition techniques to enable generalizable synthesis, 
 cover:          /assets/images/covers/CSAIL_logo.png
 authors:
-  - Jefferson Lin, Henry Lieberman, et. al.  
+  - Jefferson Lin
+  - Henry Lieberman
+  - David Canfield Smith
+  - Hugo Sanchez
+  - Honjar Xing  
 links:
   Lab: https://www.csail.mit.edu/
 ---
