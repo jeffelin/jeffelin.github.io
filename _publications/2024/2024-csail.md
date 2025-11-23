@@ -14,5 +14,5 @@ authors:
   - Hugo Sanchez
   - Honjar Xing  
 links:
-  Lab: https://www.csail.mit.edu/
+  Lab: https://web.media.mit.edu/~lieber/
 ---
